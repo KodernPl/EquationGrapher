@@ -1,4 +1,3 @@
-﻿# Krzysztof Kuziel www.krzykustudio.pl
 # Python 3.5
 # Equation Graph maker from function of one variable
 
